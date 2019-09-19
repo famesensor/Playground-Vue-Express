@@ -33,4 +33,4 @@ async function loadPostColletion() {
     });
     return client.db('vue_express').collection('posts');
 }
-module.exports = router;
+module.exports = router; 
